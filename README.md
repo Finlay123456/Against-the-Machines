@@ -42,7 +42,7 @@ Against the Machines is a 3D action-packed Unity game where players navigate thr
   - **Level 3**: A high-stakes boss battle.
 
 ## Contributors
-- **Finlay Cooper**: Gameplay programming, enemy AI development, and physics integration.
+- **Finlay Cooper**: Level 2 gameplay development and enemy AI integration.
 - **Team Members**: Collaboration on level design, testing, and iterative improvements.
 
 ## License
